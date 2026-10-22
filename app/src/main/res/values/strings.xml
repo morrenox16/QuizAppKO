@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">QuizAppKO</string>
-<string name="Q1">"What year the first NFS (Need For Speed) was released?</string>
+    <string name="q1">"What year the first NFS (Need For Speed) was released?</string>
+    <string name="q2">"What was the most selling Need For Speed?</string>
+    <string name="q3">"In what year was the first game released, and for which revolutionary console was it originally designed?</string>
+    <string name="q4">"Which iconic 2005 entry features the main antagonist \"Razor\" and tasks the player with climbing the \"Blacklist\"?</string>
+    <string name="q5">"What exact car model is the legendary hero car from Need for Speed: Most Wanted featuring the silver and blue livery?</string>
+    <string name="q6">"What is the name of the fictional city inspired by Los Angeles where Need for Speed: Underground 2 takes place?</string>
+    <string name="q7">"What innovative customization feature was introduced in Need for Speed: Carbon that allowed players to morph and reshape body parts?</string>
+    <string name="q8">"Which famous actor, known for his role in Breaking Bad, starred in the 2014 Need for Speed movie?</string>
+    <string name="q9">"Which developer, famous for the Burnout series, took over the franchise to create NFS: Hot Pursuit (2010)?</string>
+    <string name="q10">"How does the high-stakes mechanic differ between daytime and nighttime racing in Need for Speed: Heat?</string>
+
+
 </resources>

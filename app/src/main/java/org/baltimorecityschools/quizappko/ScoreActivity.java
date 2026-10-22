@@ -22,7 +22,7 @@ public class ScoreActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_score);
 
-        scoreTV = (TextView) findViewById(R.id.scoreTV);
+        scoreTV = findViewById(R.id.scoreTV);
         score = 0;
 
         incomingIntent = getIntent();

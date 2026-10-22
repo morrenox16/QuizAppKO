@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:padding="12dp"
             android:textSize="18sp"
-            android:text="A: 1992"/>
+            android:text="1992"/>
 
 
     <Button
@@ -36,13 +36,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="12dp"
-        android:text="B: 1994"
+        android:text="1994"
         android:textSize="18sp" />
 
 
     <Button
         android:id="@+id/SubmitBTN"
-        android:layout_width="140dp"
+        android:layout_width="164dp"
         android:layout_height="57dp"
         android:layout_marginBottom="24dp"
         android:text="Submit"
@@ -50,10 +50,11 @@
 
     <Button
         android:id="@+id/nextBTN"
-        android:layout_width="138dp"
-        android:layout_height="57dp"
-        android:layout_marginHorizontal="172dp"
-        android:layout_marginTop="-82sp"
+        android:layout_width="167dp"
+        android:layout_height="61dp"
+        android:layout_marginHorizontal="194dp"
+        android:layout_marginTop="-80sp"
+        android:layout_marginBottom="24dp"
         android:text="Next"
         android:textSize="18sp" />
 
